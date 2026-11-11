@@ -17,4 +17,4 @@ S1 - xxd garden.jpg (to see the raw HEX the flag will show at the end of the loa
 
 OR
 
-strings garden.jpg (to get non-num)
+strings garden.jpg (to get non-num at the end flag will show)
